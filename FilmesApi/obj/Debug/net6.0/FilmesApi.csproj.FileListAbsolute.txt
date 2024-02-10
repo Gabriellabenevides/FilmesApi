@@ -1,0 +1,170 @@
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\appsettings.json
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\FilmesApi.exe
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\FilmesApi.deps.json
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\FilmesApi.runtimeconfig.json
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\FilmesApi.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\FilmesApi.pdb
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.csproj.AssemblyReference.cache
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.AssemblyInfoInputs.cache
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.AssemblyInfo.cs
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\staticwebassets\msbuild.FilmesApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\staticwebassets\msbuild.build.FilmesApi.props
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FilmesApi.props
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FilmesApi.props
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\scopedcss\bundle\FilmesApi.styles.css
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.csproj.CopyComplete
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\refint\FilmesApi.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.pdb
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.genruntimeconfig.cache
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\ref\FilmesApi.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Humanizer.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Desenvolvimento\FilmesApi\FilmesApi\bin\Debug\net6.0\FilmesApi.xml
+C:\Desenvolvimento\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\appsettings.json
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\FilmesApi.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\FilmesApi.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\FilmesApi.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\FilmesApi.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\FilmesApi.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\FilmesApi.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\staticwebassets\msbuild.FilmesApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\staticwebassets\msbuild.build.FilmesApi.props
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FilmesApi.props
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FilmesApi.props
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\scopedcss\bundle\FilmesApi.styles.css
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\refint\FilmesApi.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\FilmesApi\FilmesApi\obj\Debug\net6.0\ref\FilmesApi.dll
